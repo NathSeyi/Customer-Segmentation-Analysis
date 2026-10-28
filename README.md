@@ -52,8 +52,10 @@ Business Recommendations
 * Use customer segmentation insights to guide further marketing research and campaign testing.
 
 Dashboard
+<img width="1574" height="887" alt="Screenshot 2026-10-28 173923" src="https://github.com/user-attachments/assets/a20d439f-a8e9-4c18-b574-fa07a2029962" />
 
-The Power BI dashboard presents customer demographics, average income, spending patterns, and interactive filters for exploring customer segments.
+The Interactive Power BI dashboard explores customer demographics, income pattern, and 
+spending scores.
 
 Limitations
 
